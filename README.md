@@ -1,4 +1,4 @@
-# bootstrap-html-login-template
+# Bootstrap-html-login-template
 ## 1、简介
 
 Bootstrap框架的html登录&amp;注册模板，适合django等框架，可直接修改对接后端
