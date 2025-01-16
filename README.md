@@ -17,5 +17,6 @@ Bootstrap框架的html登录&amp;注册模板，适合django等框架，可直�
 
 ![image-20230127220316018](/img/image-20230127220316018.png)
 
+## Star History
 
-<iframe style="width:100%;height:auto;min-width:600px;min-height:400px;" src="https://star-history.com/embed?secret=Z2hwX2JLYTdZQjNCaHRMZWwwU3RKd3ZXTGJVRWVmTGIwVzFBbk5ESQ==#Dancing-Pierre/Bootstrap-html-login-template&Date" frameBorder="0"></iframe>
+[![Star History Chart](https://api.star-history.com/svg?repos=Dancing-Pierre/Bootstrap-html-login-template&type=Date)](https://star-history.com/#Dancing-Pierre/Bootstrap-html-login-template&Date)
